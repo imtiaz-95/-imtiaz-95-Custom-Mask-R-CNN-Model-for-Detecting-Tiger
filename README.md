@@ -1,1 +1,1 @@
-# -imtiaz-95-Custom-Mask-R-CNN-Model-for-Detecting-Tiger
+# -imtiaz-95-Custom-Mask-R-CNN-Model-for-Detecting-Tiger[Detecting_Object_Using_Mask_R_CNN_on_a_custom_dataset__Tiger_.pdf](https://github.com/imtiaz-95/-imtiaz-95-Custom-Mask-R-CNN-Model-for-Detecting-Tiger/files/10326632/Detecting_Object_Using_Mask_R_CNN_on_a_custom_dataset__Tiger_.pdf)
